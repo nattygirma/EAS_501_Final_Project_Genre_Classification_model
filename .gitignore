@@ -58,7 +58,6 @@ log/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # Coverage reports
 htmlcov/
